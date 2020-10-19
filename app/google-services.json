@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "860860152504",
+    "firebase_url": "https://multirecyclerviewlive-38e89.firebaseio.com",
+    "project_id": "multirecyclerviewlive-38e89",
+    "storage_bucket": "multirecyclerviewlive-38e89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860860152504:android:878c3e4ff5006547ef524d",
+        "android_client_info": {
+          "package_name": "com.devgeeks.multirecyclerviewliveupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860860152504-q6v1iabfg0jn4nthaofp3i0jj0cs4aj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf6SVj01NN1X8GtE5_ZxC71I9E1PbSK7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860860152504-q6v1iabfg0jn4nthaofp3i0jj0cs4aj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
